@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great coffee with a conscience BOOM
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Great coffee with a conscience Boom
+subheading: Support sustainable farming while enjoying a cup BOOM
 mainpitch:
   title: Why Kaldi
   description: >
